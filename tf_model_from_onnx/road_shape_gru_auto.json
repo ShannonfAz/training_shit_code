@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "operations": [
+    {
+      "op_name": "node_Transpose_8",
+      "param_target": "attributes",
+      "param_name": "perm",
+      "values": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "_comment": "Auto-generated replacement for road_shape_gru",
+  "_generation_reason": "conversion_error"
+}
