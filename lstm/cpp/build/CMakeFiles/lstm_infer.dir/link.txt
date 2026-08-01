@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lstm_infer.dir/main.cpp.o CMakeFiles/lstm_infer.dir/lstmrun.cpp.o -o lstm_infer 
